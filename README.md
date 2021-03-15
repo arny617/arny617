@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arny617
-- 👀 I’m interested in Time series analysis, Factor research and applications of Data science in Finance
+- 👀 I’m interested in Derivatives Pricing, Time series analysis, Factor research and applications of Data science in Finance
 
 
 <!---
