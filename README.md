@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arny617
-- 👀 I’m interested in Data science and its applications in Finance
+- 👀 I’m interested in Time series analysis, Factor research and applications of Data science in Finance
 
 
 <!---
